@@ -93,3 +93,65 @@ This course is a total of 12 weeks.
 - Week 8: JavaScript Introduction
 - Week 9: CSS Frameworks
 - Week 10 -12: Personal Website
+
+### Week 1: HTML Basics, WWW/Internet, Tools
+
+- Introduction to web development and the World Wide Web.
+- HTML document structure, elements, and tags.
+- Essential tools for web development.
+
+### Week 2: CSS Basics
+
+- Introduction to CSS and its role in web design.
+- CSS syntax, selectors, and properties.
+- Styling HTML elements with CSS.
+
+### Week 3: Images and Graphics
+
+- Incorporating images into web pages.
+- Image formats and optimization.
+- Adding graphics with CSS.
+
+### Week 4: Tables
+
+- Creating tables to organize data.
+- Styling tables with CSS.
+- Table accessibility.
+
+### Week 5: Forms
+
+- Building web forms for user input.
+- Form elements, validation, and styling.
+- Handling form submissions.
+
+### Week 6: Web Design
+
+- Principles of web design, including layout and typography.
+- Designing web pages with CSS.
+- User experience (UX) considerations.
+
+### Week 7: Responsive Design
+
+- The importance of responsive web design.
+- Media queries and viewport settings.
+- Building mobile-friendly layouts.
+
+### Week 8: JavaScript Introduction
+
+- An introduction to JavaScript as a scripting language.
+- Basic JavaScript syntax and concepts.
+- Interactivity and DOM manipulation.
+
+### Week 9: CSS Frameworks
+
+- Overview of CSS frameworks (e.g., Bootstrap).
+- Using pre-built CSS components.
+- Customizing and integrating CSS frameworks.
+
+### Week 10-12: Personal Website
+
+- Culmination of the course with a hands-on project.
+- Students create their personal portfolio websites.
+- Applying HTML, CSS, and optional JavaScript.
+- Responsive design implementation.
+- Web accessibility and best practices.
